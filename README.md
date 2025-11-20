@@ -99,7 +99,7 @@ const fuck javascript = {
 ### 🔗 Saint.xxx
 <img src="https://media.discordapp.net/attachments/1331726346245640302/1441156215592849489/animation.gif?ex=6920c4d1&is=691f7351&hm=50cca66dea038cf6925fbeb4c09748d572a7a91f1eedeb55bc541297776aeb5a&=&width=220" width="220">
 
-**Saint.xxx:** A self-made biolink platform that beats Guns.lol, Linktree, and more. Multiple domains, fully customizable interface with your CSS or Tailwind, music support, proper alignments, and mobile-friendly. Built with **PostgreSQL, Next.js, TypeScript, and Rust**.  
+**Saint.xxx:** A self-made biolink platform that beats Guns.lol, Linktree, and more. Multiple domains, fully customizable interface with your CSS or Tailwind, music support, proper alignments, and mobile-friendly. Built with **PostgreSQL, Next.js, TypeScript, and Rust** tons of 3rd party oauths like telegram, spotify etc.  
 
 [![Sign Up](https://img.shields.io/badge/Sign%20Up-Free-blue?style=for-the-badge)](https://saint.xxx)
 
