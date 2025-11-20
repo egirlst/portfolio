@@ -126,7 +126,6 @@ const fuck javascript = {
 
 **Vein:** Kept secret for now. Built on **C++** and **Tess** with **Vue.js** frontend on my custom **[CLI](https://github.com/egirlst/cli)**. Vein will be the most important tool every company will use.  
 
-[![Learn More](https://img.shields.io/badge/Learn%20More-Details-red?style=for-the-badge)](https://github.com/egirlst/cli)
 
 </td>
 </tr>
