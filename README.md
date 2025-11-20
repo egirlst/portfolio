@@ -1,6 +1,17 @@
 # $$ INT <?<:: print"hi">>
 - welcome to my personal readme
 
+
+```javascript
+const fuck javascript = {
+    Worst fucking language to grace this earth,
+    fuck Brendan Eich,
+    fuck Linus Torvalds,
+    fuck James Gosling,
+    AND if Guido van Rossum:: fuck him
+};
+```
+
 ## Languages i know
 
 <table>
