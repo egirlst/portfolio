@@ -79,8 +79,9 @@ const fuck javascript = {
   </tr>
 </table>
 
-## stuff i did ig
 
+
+## stuff i made ig
 
 <div align="center">
 
@@ -93,7 +94,7 @@ const fuck javascript = {
 
 **Swarm.ws:** After **[Comick.io](https://comick.dev/)**, the biggest free manga site, got shut down, I built my own in less than 4 hours. Gained 1k users in 5 hours. Today, it’s one of the biggest manga sites with minimal ads. Built on **Next.js 16, PostgreSQL, Golang, Tess, and Python**, offering free and premium chapters fast.  
 
-[Start reading today for free!](https://saint.xxx)
+[![Start Reading](https://img.shields.io/badge/Start%20Reading-Free-brightgreen?style=for-the-badge)](https://saint.xxx)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +104,7 @@ const fuck javascript = {
 
 **Saint.xxx:** A self-made biolink platform that beats Guns.lol, Linktree, and more. Multiple domains, fully customizable interface with your CSS or Tailwind, music support, proper alignments, and mobile-friendly. Built with **PostgreSQL, Next.js, TypeScript, and Rust**.  
 
-[Make an account today for free!](https://saint.xxx)
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-Free-blue?style=for-the-badge)](https://saint.xxx)
 
 </td>
 </tr>
@@ -115,7 +116,7 @@ const fuck javascript = {
 
 **Saint.bot:** A Discord bot built with **Python** in my custom fork **[SaintCord](https://github.com/egirlst/saintcord)**, with **PostgreSQL** backend and a **Next.js** site. 600 commands, full auth system, fastest compiling speeds, all built in 13 hours, 2 hours on the site.  
 
-[Buy here for only $10 lifetime!](https://saint.bot)
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-$10%20Lifetime-orange?style=for-the-badge)](https://saint.bot)
 
 </td>
 <td width="50%" valign="top">
@@ -123,10 +124,17 @@ const fuck javascript = {
 ### 🔐 Vein.??
 <img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=220" width="220">
 
-**Vein:** Kept secret for now. Built on **C++** and **Tess** with **Vue.js** frontend on my custom CLI (**[egirlst/cli](https://github.com/egirlst/cli)**). Vein will be the most important tool every company will use.  
+**Vein:** Kept secret for now. Built on **C++** and **Tess** with **Vue.js** frontend on my custom **[CLI](https://github.com/egirlst/cli)**. Vein will be the most important tool every company will use.  
+
+[![Learn More](https://img.shields.io/badge/Learn%20More-Details-red?style=for-the-badge)](https://github.com/egirlst/cli)
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
+
+#
+
