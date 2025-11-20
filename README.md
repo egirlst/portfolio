@@ -90,9 +90,9 @@ const fuck javascript = {
 <td width="50%" valign="top">
 
 ### 🌐 Swarm.ws
-<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=440" width="440">
+<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=220" width="220">
 
-**Swarm.ws:** After **[Comick.io](https://comick.dev/)**, the biggest free manga site, got shut down, I built my own in less than 4 hours. Gained 1k users in 5 hours. Today, it's one of the biggest manga sites with minimal ads. Built on **Next.js 16, PostgreSQL, Golang, Tess, and Python**, offering free and premium chapters fast.  
+**Swarm.ws:** After **[Comick.io](https://comick.dev/)**, the biggest free manga site, got shut down, I built my own in less than 4 hours. Gained 1k users in 5 hours. Today, it’s one of the biggest manga sites with minimal ads. Built on **Next.js 16, PostgreSQL, Golang, Tess, and Python**, offering free and premium chapters fast.  
 
 [![Start Reading](https://img.shields.io/badge/Start%20Reading-Free-brightgreen?style=for-the-badge)](https://saint.xxx)
 
@@ -100,7 +100,7 @@ const fuck javascript = {
 <td width="50%" valign="top">
 
 ### 🔗 Saint.xxx
-<img src="https://media.discordapp.net/attachments/1266507379051331625/1441167747131375646/ezgif-16e708c9f580cb33.gif?ex=6920cf8e&is=691f7e0e&hm=0839b6111f11719bd7fb96f8b294569206ede432b112328ddf0b59a48cb17c63&=&width=800&height=450" width="440">
+<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156215592849489/animation.gif?ex=6920c4d1&is=691f7351&hm=50cca66dea038cf6925fbeb4c09748d572a7a91f1eedeb55bc541297776aeb5a&=&width=220" width="220">
 
 **Saint.xxx:** A self-made biolink platform that beats Guns.lol, Linktree, and more. Multiple domains, fully customizable interface with your CSS or Tailwind, music support, proper alignments, and mobile-friendly. Built with **PostgreSQL, Next.js, TypeScript, and Rust**.  
 
@@ -112,7 +112,7 @@ const fuck javascript = {
 <td width="50%" valign="top">
 
 ### 🤖 Saint.bot
-<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156215592849489/animation.gif?ex=6920c4d1&is=691f7351&hm=50cca66dea038cf6925fbeb4c09748d572a7a91f1eedeb55bc541297776aeb5a&=&width=440" width="440">
+<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156215592849489/animation.gif?ex=6920c4d1&is=691f7351&hm=50cca66dea038cf6925fbeb4c09748d572a7a91f1eedeb55bc541297776aeb5a&=&width=220" width="220">
 
 **Saint.bot:** A Discord bot built with **Python** in my custom fork **[SaintCord](https://github.com/egirlst/saintcord)**, with **PostgreSQL** backend and a **Next.js** site. 600 commands, full auth system, fastest compiling speeds, all built in 13 hours, 2 hours on the site.  
 
@@ -122,7 +122,7 @@ const fuck javascript = {
 <td width="50%" valign="top">
 
 ### 🔐 Vein.??
-<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=440" width="440">
+<img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=220" width="220">
 
 **Vein:** Kept secret for now. Built on **C++** and **Tess** with **Vue.js** frontend on my custom **[CLI](https://github.com/egirlst/cli)**. Vein will be the most important tool every company will use.  
 
@@ -135,4 +135,4 @@ const fuck javascript = {
 
 
 
-#
+
