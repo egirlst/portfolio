@@ -8,7 +8,7 @@ const fuck javascript = {
     fuck Brendan Eich,
     fuck Linus Torvalds,
     fuck James Gosling,
-    AND if Guido van Rossum:: fuck him
+    AND if Guido van Rossum:: fuck him too
 };
 ```
 
