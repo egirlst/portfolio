@@ -89,7 +89,7 @@ const fuck javascript = {
 ### 🌐 Swarm.ws
 <img src="https://media.discordapp.net/attachments/1331726346245640302/1441156548226453685/animation.gif?ex=6920c520&is=691f73a0&hm=a87ae8c098d0a055d8b36e752a8060156f859203b18fb757514d5f1ed297515c&=&width=220" width="220">
 
-**Swarm.ws:** After **[Comick.io](https://comick.dev/)**, the biggest free manga site, got shut down, I built my own in less than 4 hours. Gained 1k users in 5 hours. Today, it's one of the biggest manga sites with minimal ads. Built on **Next.js 16, PostgreSQL, Golang, Tess, and Python**, offering free and premium chapters fast.  
+**Swarm.ws:** After **[Comick.io](https://comick.dev/)**, the biggest free manga site, got shut down, I built my own in less than 4 hours. Gained 1k users in 5 hours. Today, it’s one of the biggest manga sites with minimal ads. Built on **Next.js 16, PostgreSQL, Golang, Tess, and Python**, offering free and premium chapters fast.  
 
 [![Start Reading](https://img.shields.io/badge/Start%20Reading-Free-brightgreen?style=for-the-badge)](https://saint.xxx)
 
@@ -123,6 +123,7 @@ const fuck javascript = {
 
 **Vein:** Kept secret for now. Built on **C++** and **Tess** with **Vue.js** frontend on my custom **[CLI](https://github.com/egirlst/cli)**. Vein will be the most important tool every company will use.  
 
+
 </td>
 </tr>
 </table>
@@ -130,5 +131,5 @@ const fuck javascript = {
 </div>
 
 
-#
 
+#
